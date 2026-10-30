@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-recursive-strategic-optimizer",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Recursive Strategic Optimizer - Regret-matching equilibrium and payoff matrix optimizer with IESDS dominance pruning.",
+  "tools": [
+    "compute_regret_matching_equilibrium",
+    "filter_dominated_strategies",
+    "compute_pareto_frontier_payoffs"
+  ]
+}
